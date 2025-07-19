@@ -1,5 +1,5 @@
   <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=Hi%2C+Amazon+Clone;UI/UX" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&center=true&vCenter=true&width=450&lines=C+Amazon+Clone;UI/UX" alt="Typing SVG" />
   </p>
   
   A fully UI/UX **Amazon website clone**, built using modern HTML, CSS - The real Amazon e-commerce platform.
